@@ -1,0 +1,10 @@
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\bin\Debug\Muzyczny.exe.config
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\bin\Debug\Muzyczny.exe
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\bin\Debug\Muzyczny.pdb
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\obj\Debug\Muzyczny.csprojAssemblyReference.cache
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\obj\Debug\Muzyczny.Form1.resources
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\obj\Debug\Muzyczny.Properties.Resources.resources
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\obj\Debug\Muzyczny.csproj.GenerateResource.cache
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\obj\Debug\Muzyczny.csproj.CoreCompileInputs.cache
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\obj\Debug\Muzyczny.exe
+C:\Users\Wikuś\Desktop\Muzyczny\Muzyczny\obj\Debug\Muzyczny.pdb
